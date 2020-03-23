@@ -1,5 +1,6 @@
 # O que deve ser feito:
 ## Para configurar dados do utilizador
+#
 ...
 git config --global user.name "nome de utilizador"
 git config --global user.email "email@email.com"
