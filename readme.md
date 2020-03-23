@@ -7,7 +7,7 @@
 ## Relativamente a ativar um projeto no computador
 Para começar devemos escrever:
 - git init
--- Serve para iniciar um projeto
+- - Serve para iniciar um projeto
 - git add
 //Serve para adicionar um documento
 - git add . ou git add *
