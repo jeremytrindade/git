@@ -1,10 +1,10 @@
 # O que deve ser feito:
-- Para configurar dados do utilizador
-git config --global user.name "nome de utilizador"
-git config --global user.email "email@email.com"
-- Relativamente a ativar um projeto no computador
+## Para configurar dados do utilizador
+- git config --global user.name "nome de utilizador"
+- git config --global user.email "email@email.com"
+## Relativamente a ativar um projeto no computador
 Para começar devemos escrever:
-git init
+- git init
 // Serve para iniciar um projeto
 git add
 //Serve para adicionar um documento
