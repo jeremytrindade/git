@@ -39,3 +39,5 @@ Para começar devemos escrever:
 ## Links uteis
 - https://www.aulaead.com/courses/git-github
 - - Pequeno curso de GIT e GITHUB
+
+### Jérémy Trindade
