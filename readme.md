@@ -35,3 +35,7 @@ Para começar devemos escrever:
 - git clone https://github.com/USERNAME/REPOSITORIO.git
 - - Depois de fazer o que tem a fazer e quando fizer o commit para fazer update é so fazer o seguinte:
 - git push
+
+## Links uteis
+- https://www.aulaead.com/courses/git-github
+- - Pequeno curso de GIT e GITHUB
