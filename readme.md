@@ -36,6 +36,9 @@ Para começar devemos escrever:
 - - Depois de fazer o que tem a fazer e quando fizer o commit para fazer update é so fazer o seguinte:
 - git push
 
+- git pull
+- - serve para fazer download das atualizações
+
 ## Links uteis
 - https://www.aulaead.com/courses/git-github
 - - Pequeno curso de GIT e GITHUB
