@@ -43,4 +43,4 @@ Para começar devemos escrever:
 - https://www.aulaead.com/courses/git-github
 - - Pequeno curso de GIT e GITHUB
 
-### Jérémy Trindade
+### Jérémy Trindade & Thierry
